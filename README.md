@@ -58,3 +58,22 @@ Cluster 2: s trump people years going easy email
 Cluster 3: iphone years grateful email experience experiment facebook
 Cluster 4: delete years grateful experience experiment facebook feel
 ```
+### Development and Testing
+
+In order to use the following repository
+
+```bash
+# Clone this repository
+git clone https://github.com/sahitpj/TextCl.git
+
+# Go into the repository
+cd TextCl
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebook
+jupyter notebook
+
+#then open demo
+```
